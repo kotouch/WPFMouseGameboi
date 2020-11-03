@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMouseGame", "WPFMouseGame\WPFMouseGame.csproj", "{451DB0F8-CA60-4AAB-88D6-7617F7FAB511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451DB0F8-CA60-4AAB-88D6-7617F7FAB511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451DB0F8-CA60-4AAB-88D6-7617F7FAB511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451DB0F8-CA60-4AAB-88D6-7617F7FAB511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451DB0F8-CA60-4AAB-88D6-7617F7FAB511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5170FAE2-9B72-417E-8F36-F18046D09884}
+	EndGlobalSection
+EndGlobal
